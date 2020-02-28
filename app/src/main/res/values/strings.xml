@@ -6,5 +6,7 @@
     <string name="add1">+1</string>
     <string name="add2">+2</string>
     <string name="add3">+3</string>
+    <string name="refresh">refresh_image_button</string>
+    <string name="undo">undo_image_button</string>
 
 </resources>
